@@ -1,2 +1,4 @@
 # Programacion1
-Trabajos y ejercicios de programación de la universidad
+Repositorio que contiene los trabajos, talleres y 
+proyectos desarrollados durante el primer semestre
+de ingenería en Ciencia de Datos.
